@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi y'all I'm Oli 👋
+
+😄 Pronouns: He/Him
+
+🌱 I’m currently studying Information Systems.
+
+
 
 <!--
 **itsolih/itsolih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
